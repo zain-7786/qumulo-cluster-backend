@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "name": "Cluster A",
+      "region": "us-west-2",
+      "nodes": 10,
+      "capacity": "100TB"
+    },
+    {
+      "id": "2",
+      "name": "Cluster B",
+      "region": "eu-central-1",
+      "nodes": 20,
+      "capacity": "200TB"
+    },
+    {
+      "id": "3",
+      "name": "Cluster C",
+      "region": "ap-southeast-1",
+      "nodes": 15,
+      "capacity": "150TB"
+    },
+    {
+      "id": "4",
+      "name": "Cluster D",
+      "region": "us-east-1",
+      "nodes": 8,
+      "capacity": "80TB"
+    },
+    {
+      "id": "5",
+      "name": "Cluster E",
+      "region": "eu-west-1",
+      "nodes": 12,
+      "capacity": "120TB"
+    },
+    {
+      "id": "6",
+      "name": "Cluster F",
+      "region": "ap-northeast-1",
+      "nodes": 18,
+      "capacity": "180TB"
+    },
+    {
+      "id": "7",
+      "name": "Cluster G",
+      "region": "us-west-1",
+      "nodes": 11,
+      "capacity": "110TB"
+    },
+    {
+      "id": "8",
+      "name": "Cluster H",
+      "region": "eu-south-1",
+      "nodes": 9,
+      "capacity": "90TB"
+    },
+    {
+      "id": "9",
+      "name": "Cluster I",
+      "region": "ap-south-1",
+      "nodes": 16,
+      "capacity": "160TB"
+    },
+    {
+      "id": "10",
+      "name": "Cluster J",
+      "region": "ca-central-1",
+      "nodes": 13,
+      "capacity": "130TB"
+    }
+  ]
+  
